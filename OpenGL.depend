@@ -1,0 +1,525 @@
+# depslib dependency file v1.0
+1597749732 source:d:\pinho\basico2d\programabasicoopengl.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Temporizador.h"
+
+1660571958 dor.h"
+
+1298986600 d:\pinho\basico2d\gl\glut.h
+	"freeglut.h"
+
+1660571958 h"
+
+1298986600 d:\pinho\basico2d\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1660571958 ext.h"
+
+1298986600 d:\pinho\basico2d\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1660571958 
+
+1298986600 d:\pinho\basico2d\gl\freeglut_ext.h
+
+1584988812 d:\pinho\basico2d\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1660571958 h>
+
+1584988348 source:d:\pinho\basico2d\temporizador.cpp
+	"Temporizador.h"
+
+1597787603 source:d:\pinho\poligonos\exibepoligonos.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+
+1298986600 d:\pinho\poligonos\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\pinho\poligonos\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\pinho\poligonos\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\pinho\poligonos\gl\freeglut_ext.h
+
+1597783594 d:\pinho\poligonos\ponto.h
+	<iostream>
+
+1597787214 d:\pinho\poligonos\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1584988812 d:\pinho\poligonos\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1597787245 source:d:\pinho\poligonos\poligono.cpp
+	"Poligono.h"
+
+1597784052 source:d:\pinho\poligonos\ponto.cpp
+	"Ponto.h"
+
+1584988348 source:d:\pinho\poligonos\temporizador.cpp
+	"Temporizador.h"
+
+1621520030 source:d:\pinho\basico2d\basico2d\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1660571956 resRGB.h"
+
+1621514488 d:\pinho\basico2d\basico2d\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1298986600 d:\pinho\basico2d\basico2d\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\pinho\basico2d\basico2d\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\pinho\basico2d\basico2d\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\pinho\basico2d\basico2d\gl\freeglut_ext.h
+
+1621479118 source:d:\pinho\basico2d\basico2d\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1621479098 d:\pinho\basico2d\basico2d\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1629143624 d:\pinho\basico2d\basico2d\ponto.h
+	<iostream>
+
+1619656962 source:d:\pinho\basico2d\basico2d\ponto.cpp
+	"Ponto.h"
+
+1629145130 source:d:\pinho\basico2d\basico2d\programabasicoopengl.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+	"ListaDeCoresRGB.h"
+
+1584988812 d:\pinho\basico2d\basico2d\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1584988348 source:d:\pinho\basico2d\basico2d\temporizador.cpp
+	"Temporizador.h"
+
+1659963573 source:c:\users\10033421\desktop\pontosnotriangulo\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1659963572 c:\users\10033421\desktop\pontosnotriangulo\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1659963573 c:\users\10033421\desktop\pontosnotriangulo\gl\glut.h
+	"freeglut.h"
+
+1659963574 c:\users\10033421\desktop\pontosnotriangulo\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1659963574 c:\users\10033421\desktop\pontosnotriangulo\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1659963574 c:\users\10033421\desktop\pontosnotriangulo\gl\freeglut_ext.h
+
+1659963572 source:c:\users\10033421\desktop\pontosnotriangulo\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1659963572 c:\users\10033421\desktop\pontosnotriangulo\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1659963572 c:\users\10033421\desktop\pontosnotriangulo\ponto.h
+	<iostream>
+	<cmath>
+
+1659963573 source:c:\users\10033421\desktop\pontosnotriangulo\ponto.cpp
+	"Ponto.h"
+
+1659963572 source:c:\users\10033421\desktop\pontosnotriangulo\pontosnotriangulo.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+
+1659963572 c:\users\10033421\desktop\pontosnotriangulo\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1659963573 source:c:\users\10033421\desktop\pontosnotriangulo\temporizador.cpp
+	"Temporizador.h"
+
+1678819991 source:c:\users\10033421\desktop\opengl-codeblocks-xcode\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1678819991 c:\users\10033421\desktop\opengl-codeblocks-xcode\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1678819977 c:\users\10033421\desktop\opengl-codeblocks-xcode\gl\glut.h
+	"freeglut.h"
+
+1678819977 c:\users\10033421\desktop\opengl-codeblocks-xcode\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1678819977 c:\users\10033421\desktop\opengl-codeblocks-xcode\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1678819977 c:\users\10033421\desktop\opengl-codeblocks-xcode\gl\freeglut_ext.h
+
+1678819991 source:c:\users\10033421\desktop\opengl-codeblocks-xcode\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1678819991 c:\users\10033421\desktop\opengl-codeblocks-xcode\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1678819991 c:\users\10033421\desktop\opengl-codeblocks-xcode\ponto.h
+	<iostream>
+	<cmath>
+
+1678819991 source:c:\users\10033421\desktop\opengl-codeblocks-xcode\ponto.cpp
+	"Ponto.h"
+
+1660572850 source:c:\users\10033421\desktop\opengl-codeblocks-xcode\pontosnotriangulo.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+
+1678819977 c:\users\10033421\desktop\opengl-codeblocks-xcode\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1678819977 source:c:\users\10033421\desktop\opengl-codeblocks-xcode\temporizador.cpp
+	"Temporizador.h"
+
+1660769677 source:/home/10033421/Desktop/OpenGL-CodeBlocks-Xcode/ListaDeCoresRGB.cpp
+	"ListaDeCoresRGB.h"
+
+1660769677 /home/10033421/Desktop/OpenGL-CodeBlocks-Xcode/ListaDeCoresRGB.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1660769678 /home/10033421/Desktop/OpenGL-CodeBlocks-Xcode/GL/glut.h
+	"freeglut.h"
+
+1660769678 /home/10033421/Desktop/OpenGL-CodeBlocks-Xcode/GL/freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1660769678 /home/10033421/Desktop/OpenGL-CodeBlocks-Xcode/GL/freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1660769678 /home/10033421/Desktop/OpenGL-CodeBlocks-Xcode/GL/freeglut_ext.h
+
+1660769677 source:/home/10033421/Desktop/OpenGL-CodeBlocks-Xcode/Poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1660769677 /home/10033421/Desktop/OpenGL-CodeBlocks-Xcode/Poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1660769677 /home/10033421/Desktop/OpenGL-CodeBlocks-Xcode/Ponto.h
+	<iostream>
+	<cmath>
+
+1660769677 source:/home/10033421/Desktop/OpenGL-CodeBlocks-Xcode/Ponto.cpp
+	"Ponto.h"
+
+1660769677 source:/home/10033421/Desktop/OpenGL-CodeBlocks-Xcode/PontosNoTriangulo.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+
+1660769677 /home/10033421/Desktop/OpenGL-CodeBlocks-Xcode/Temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1660769677 source:/home/10033421/Desktop/OpenGL-CodeBlocks-Xcode/Temporizador.cpp
+	"Temporizador.h"
+
+1677787005 source:/home/10033421/Desktop/OpenGL-CodeBlocks-Xcode/ProgramaBasicoOpenGL.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+	"ListaDeCoresRGB.h"
+
+1678212944 source:c:\users\10033421\desktop\opengl-codeblocks-xcode\programabasicoopengl.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+	"ListaDeCoresRGB.h"
+
+1678819989 source:c:\users\10033421\desktop\opengl-codeblocks-xcode\bezier.cpp
+	"Bezier.h"
+
+1678819989 c:\users\10033421\desktop\opengl-codeblocks-xcode\bezier.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+
+1678819989 source:c:\users\10033421\desktop\opengl-codeblocks-xcode\desenhabezier.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Bezier.h"
+	"Temporizador.h"
+	"ListaDeCoresRGB.h"
+
+1680008772 source:c:\users\10033421\desktop\curvasbezier\bezier.cpp
+	"Bezier.h"
+
+1680008772 c:\users\10033421\desktop\curvasbezier\bezier.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+
+1680008772 c:\users\10033421\desktop\curvasbezier\gl\glut.h
+	"freeglut.h"
+
+1680008772 c:\users\10033421\desktop\curvasbezier\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1680008772 c:\users\10033421\desktop\curvasbezier\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1680008772 c:\users\10033421\desktop\curvasbezier\gl\freeglut_ext.h
+
+1680008773 c:\users\10033421\desktop\curvasbezier\ponto.h
+	<iostream>
+	<cmath>
+
+1680008769 source:c:\users\10033421\desktop\curvasbezier\desenhabezier.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Bezier.h"
+	"Temporizador.h"
+	"ListaDeCoresRGB.h"
+	<sstream>
+
+1680008773 c:\users\10033421\desktop\curvasbezier\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1680008773 c:\users\10033421\desktop\curvasbezier\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1680008773 c:\users\10033421\desktop\curvasbezier\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1680008772 source:c:\users\10033421\desktop\curvasbezier\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1678820582 source:c:\users\10033421\desktop\curvasbezier\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1678820582 source:c:\users\10033421\desktop\curvasbezier\ponto.cpp
+	"Ponto.h"
+
+1678820582 source:c:\users\10033421\desktop\curvasbezier\temporizador.cpp
+	"Temporizador.h"
+
